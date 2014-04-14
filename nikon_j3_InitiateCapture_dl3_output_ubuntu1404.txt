@@ -1,0 +1,3 @@
+New file is in location /store_00010001/DCIM/101NC1J3/DSC_0044.JPG on the camera
+Saving file as dl3.jpg
+Deleting file /store_00010001/DCIM/101NC1J3/DSC_0044.JPG on the camera

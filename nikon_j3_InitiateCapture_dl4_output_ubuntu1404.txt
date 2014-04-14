@@ -1,0 +1,7 @@
+*** Error ***              
+PTP Invalid Object Handle
+ERROR: Could not capture image.
+ERROR: Could not capture.
+
+#Note: DSC_0045.JPG was stored on the memory card, but not transfered
+#to the computer

@@ -1,0 +1,2 @@
+#Note: gphoto hung, no output on stderr or stdout, hit cntl-c to cancel
+#and soft-rebooted camera
