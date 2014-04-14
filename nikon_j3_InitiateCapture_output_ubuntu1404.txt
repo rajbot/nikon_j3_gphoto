@@ -1,0 +1,1 @@
+Event FOLDER_ADDED /store_00010001/DCIM/101NC1J3 during wait, ignoring.
