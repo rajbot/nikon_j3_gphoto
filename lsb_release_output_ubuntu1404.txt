@@ -1,0 +1,4 @@
+Distributor ID:	Ubuntu
+Description:	Ubuntu Trusty Tahr (development branch)
+Release:	14.04
+Codename:	trusty

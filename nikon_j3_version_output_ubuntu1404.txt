@@ -1,0 +1,12 @@
+gphoto2 2.5.4
+
+Copyright (c) 2000-2014 Lutz Mueller and others
+
+gphoto2 comes with NO WARRANTY, to the extent permitted by law. You may
+redistribute copies of gphoto2 under the terms of the GNU General Public
+License. For more information about these matters, see the files named COPYING.
+
+This version of gphoto2 is using the following software versions and options:
+gphoto2         2.5.4          gcc, popt(m), no exif, no cdk, no aa, no jpeg, no readline
+libgphoto2      2.5.4.1        all camlibs, gcc, ltdl, no EXIF
+libgphoto2_port 0.10.0         gcc, ltdl, USB, serial without locking
