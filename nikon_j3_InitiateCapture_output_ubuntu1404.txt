@@ -1,3 +1,5 @@
 ERROR: Could not capture image.
 ERROR: Could not capture.
 Event FOLDER_ADDED /store_00010001/DCIM/101NC1J3 during wait, ignoring.
+
+#Note, an image named DSC_0035.JPG was captured and stored on the memory card 
