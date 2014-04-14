@@ -1,1 +1,3 @@
 New file is in location /store_00010001/DCIM/101NC1J3/DSC_0036.JPG on the camera
+
+#Note: the image stored on the memory card was actually named DSC_0037.JPG
