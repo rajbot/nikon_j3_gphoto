@@ -1,0 +1,17 @@
+New file is in location /store_00010001/DCIM/100NC1J3 on the camera
+
+*** Error ***              
+100NC1J3
+   ^
+Unexpected character 'N'.
+ERROR: Could not get image.
+New file is in location /store_00010001/DCIM/100NC1J3/DSC_0241.JPG on the camera
+Downloading 'DSC_0241.JPG' from folder '/store_00010001/DCIM/100NC1J3'...
+File tmp.jpg exists. Overwrite? [y|n] Saving file as tmp.jpg
+Deleting file /store_00010001/DCIM/100NC1J3/DSC_0241.JPG on the camera
+Deleting 'DSC_0241.JPG' from folder '/store_00010001/DCIM/100NC1J3'...
+New file is in location /store_00010001/DCIM/100NC1J3/DSC_0242.JPG on the camera
+Downloading 'DSC_0242.JPG' from folder '/store_00010001/DCIM/100NC1J3'...
+File tmp.jpg exists. Overwrite? [y|n] Saving file as tmp.jpg
+Deleting file /store_00010001/DCIM/100NC1J3/DSC_0242.JPG on the camera
+Deleting 'DSC_0242.JPG' from folder '/store_00010001/DCIM/100NC1J3'...
