@@ -1,0 +1,7 @@
+New file is in location /store_00010001/DCIM/100NC1J3 on the camera
+
+*** Error ***              
+100NC1J3
+   ^
+Unexpected character 'N'.
+ERROR: Could not get image.
